@@ -1,0 +1,322 @@
+ [{
+         "name": "Dog",
+         "breed": "Labrador",
+         "gender": "Male",
+         "url": "img/dogs/labrador1.jpg",
+         "age": "5",
+         "cost": 10000
+     },
+     {
+         "name": "Dog",
+         "breed": "Labrador",
+         "gender": "Male",
+         "url": "img/dogs/labrador2.jpg",
+         "age": "5",
+         "cost": 20000
+     },
+     {
+         "name": "Dog",
+         "breed": "Labrador",
+         "gender": "Male",
+         "url": "img/dogs/labrador3.jpg",
+         "age": "5",
+         "cost": 13000
+     },
+     {
+         "name": "Dog",
+         "breed": "Pug",
+         "gender": "Female",
+         "url": "img/dogs/pug1.jpg",
+         "age": "4",
+         "cost": 15000
+     },
+     {
+         "name": "Dog",
+         "breed": "Pug",
+         "gender": "Female",
+         "url": "img/dogs/pug2.jpg",
+         "age": "4",
+         "cost": 1000
+     },
+     {
+         "name": "Dog",
+         "breed": "Pug",
+         "gender": "Female",
+         "url": "img/dogs/pug3.jpg",
+         "age": "4",
+         "cost": 1000
+     },
+     {
+         "name": "Dog",
+         "breed": "Golden Doodle",
+         "gender": "female",
+         "url": "img/dogs/goldendoodle1.jpg",
+         "age": "4",
+         "cost": 2000
+     },
+     {
+         "name": "Dog",
+         "breed": "Golden Doodle",
+         "gender": "female",
+         "url": "img/dogs/goldendoodle2.jpg",
+         "age": "4",
+         "cost": 14000
+     },
+
+
+     {
+         "name": "Dog",
+         "breed": "Siberian Husky",
+         "gender": "female",
+         "url": "img/dogs/husky2.jpg",
+         "age": "4",
+         "cost": 8000
+     },
+     {
+         "name": "Dog",
+         "breed": "Siberian Husky",
+         "gender": "female",
+         "url": "img/dogs/husky3.jpg",
+         "age": "4",
+         "cost": 7000
+     },
+     {
+         "name": "Cat",
+         "breed": "Persian Cat",
+         "gender": "male",
+         "url": "img/cats/persian1.jpg",
+         "age": "4",
+         "cost": 5000
+     },
+     {
+         "name": "Cat",
+         "breed": "Russian Blue",
+         "gender": "male",
+         "url": "img/cats/russian1.jpg",
+         "age": "6",
+         "cost": 7000
+     },
+     {
+         "name": "Cat",
+         "breed": "Russian Blue",
+         "gender": "male",
+         "url": "img/cats/russian3.jpg",
+         "age": "3",
+         "cost": 17000
+     },
+     {
+         "name": "Cat",
+         "breed": "British Shorthair",
+         "gender": "female",
+         "url": "img/cats/british1.jpg",
+         "age": "7",
+         "cost": 17000
+     },
+     {
+         "name": "Cat",
+         "breed": "British Shorthair",
+         "gender": "male",
+         "url": "img/cats/british2.jpg",
+         "age": "7",
+         "cost": 4000
+     }, {
+         "name": "Cat",
+         "breed": "British Shorthair",
+         "gender": "male",
+         "url": "img/cats/british3.jpg",
+         "age": "10",
+         "cost": 14000
+     }, {
+         "name": "Bird",
+         "breed": "Love Birds",
+         "gender": "female",
+         "url": "img/birds/love1.jpg",
+         "age": "4",
+         "cost": 9000
+     },
+     {
+         "name": "Bird",
+         "breed": "Love Birds",
+         "gender": "male",
+         "url": "img/birds/love2.jpg",
+         "age": "7",
+         "cost": 7000
+     },
+     {
+         "name": "Bird",
+         "breed": "Love Birds",
+         "gender": "male",
+         "url": "img/birds/love3.jpg",
+         "age": "7",
+         "cost": 7000
+     },
+     {
+         "name": "Bird",
+         "breed": "Parrots",
+         "gender": "male",
+         "url": "img/birds/parrot.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Bird",
+         "breed": "Parrots",
+         "gender": "male",
+         "url": "img/birds/parrot2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Bird",
+         "breed": "Cockatoo",
+         "gender": "male",
+         "url": "img/birds/cockatoo1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Bird",
+         "breed": "Cockatoo",
+         "gender": "male",
+         "url": "img/birds/cockatoo2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Bird",
+         "breed": "Cockatoo",
+         "gender": "male",
+         "url": "img/birds/cockatoo3.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Rabbit",
+         "breed": "Alaskan",
+         "gender": "male",
+         "url": "img/rabbit/alaskan1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Rabbit",
+         "breed": "Angora",
+         "gender": "male",
+         "url": "img/rabbit/florida1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Rabbit",
+         "breed": "Angora",
+         "gender": "male",
+         "url": "img/rabbit/florida2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Hamster",
+         "breed": "Golden",
+         "gender": "male",
+         "url": "img/hamster/golden1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Hamster",
+         "breed": "Golden",
+         "gender": "male",
+         "url": "img/hamster/golden2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Hamster",
+         "breed": "Chinese",
+         "gender": "male",
+         "url": "img/hamster/chinese1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Hamster",
+         "breed": "Chinese",
+         "gender": "male",
+         "url": "img/hamster/chinese2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Tortoise",
+         "breed": "Indian Star",
+         "gender": "male",
+         "url": "img/tortoise/indianstar1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Tortoise",
+         "breed": "Indian Star",
+         "gender": "male",
+         "url": "img/tortoise/indianstar2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Tortoise",
+         "breed": "Leopard Tortoise",
+         "gender": "male",
+         "url": "img/tortoise/leopard1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Tortoise",
+         "breed": "Leopard Tortoise",
+         "gender": "male",
+         "url": "img/tortoise/leopard2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Duck",
+         "breed": "Call Duck",
+         "gender": "male",
+         "url": "img/duck/callduck1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Duck",
+         "breed": "Call Duck",
+         "gender": "male",
+         "url": "img/duck/callduck3.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Duck",
+         "breed": "Crested",
+         "gender": "male",
+         "url": "img/duck/crested1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Duck",
+         "breed": "Crested",
+         "gender": "male",
+         "url": "img/duck/crested2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Fish",
+         "breed": "Goldfish",
+         "gender": "male",
+         "url": "img/fish/goldfish1.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Fish",
+         "breed": "Goldfish",
+         "gender": "male",
+         "url": "img/fish/goldfish2.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Fish",
+         "breed": "Platies",
+         "gender": "male",
+         "url": "img/fish/platies3.jpg",
+         "age": "7",
+         "cost": 7000
+     }, {
+         "name": "Fish",
+         "breed": "Platies",
+         "gender": "male",
+         "url": "img/fish/platies1.jpg",
+         "age": "7",
+         "cost": 7000
+     }
+ ]

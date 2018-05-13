@@ -1,0 +1,60 @@
+[{
+        "name": "dog",
+        "breed": [
+            "Labrador",
+            "Pug",
+            "Golden Doodle",
+            "Siberian Husky"
+        ]
+    }, {
+        "name": "cat",
+        "breed": [
+            "Russian Blue",
+            "Persian Cat",
+            "British Shorthair"
+        ]
+    }, {
+        "name": "fish",
+        "breed": [
+            "Gold Fish",
+            "Platies"
+        ]
+    },
+    {
+        "name": "rabbit",
+        "breed": [
+            "Alaskan",
+            "Angora"
+
+        ]
+    },
+    {
+        "name": "bird",
+        "breed": [
+            "Love Birds",
+            "Parrots",
+            "Cockatoo"
+        ]
+    },
+    {
+        "name": "hamster",
+        "breed": [
+            "Golden",
+            "Chinese"
+        ]
+    },
+    {
+        "name": "duck",
+        "breed": [
+            "Crested",
+            "Call Duck"
+        ]
+    },
+    {
+        "name": "tortoise",
+        "breed": [
+            "Leopard Tortoise",
+            "Indian Star"
+        ]
+    }
+]
